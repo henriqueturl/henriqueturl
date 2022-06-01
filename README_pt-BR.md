@@ -1,6 +1,6 @@
 [español](https://github.com/henriqueturl/henriqueturl/blob/master/README_es.md) | [english](https://github.com/henriqueturl/henriqueturl/blob/master/README.md)
 
-### Olá, bem-vindo à minha página do Github. 👋
+### Olá, bem-vind@ à minha página do Github. 👋
 
 <br/>
 
