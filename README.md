@@ -2,6 +2,8 @@
 
 ### Hi there, welcome to my Github page. 👋
 
+![](https://komarev.com/ghpvc/?username=henriqueturl)
+
 <br/>
 
 Undergraduate Software Engineering, passionate about technology, programming and blockchain.
@@ -36,4 +38,3 @@ Undergraduate Software Engineering, passionate about technology, programming and
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-turl-5a2845122)
-
