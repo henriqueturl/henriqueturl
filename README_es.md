@@ -2,6 +2,8 @@
 
 ### Hola, bienvenid@ a mi página de Github. 👋
 
+![](https://komarev.com/ghpvc/?username=henriqueturl)
+
 <br/>
 
 Estudiante de Ingeniería de Software, apasionado por tecnología, programación y blockchain.
